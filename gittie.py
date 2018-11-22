@@ -1,4 +1,8 @@
 def introducion():
+
 	print(Hello, I'm Gittie!")
 
-introducion()
+
+def add(a, b):
+
+	return(a + b)
